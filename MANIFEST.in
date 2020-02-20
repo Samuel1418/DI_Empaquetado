@@ -1,0 +1,9 @@
+include LICENSE
+include *.txt *.in
+include *.py
+global-exclude *.pyc *.pyo *~
+
+recursive-include paquete *
+graft datos
+prune build
+prune dist

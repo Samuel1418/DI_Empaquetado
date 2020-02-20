@@ -1,0 +1,14 @@
+Metadata-Version: 1.0
+Name: Exemplo-de-empaquetado
+Version: 0.12
+Summary: Descripción breve del Ejemplo de empaquetado
+Home-page: https://www.danielcastelao.org
+Author: Samuel
+Author-email: sgomezpintos@danielcastelao.org
+License: GLP
+Description: A documentacion do proxecto
+        ***************************
+        
+        Documentamos o proxecto en Restructure text
+Keywords: empaquetado instalador paquetes
+Platform: Unix

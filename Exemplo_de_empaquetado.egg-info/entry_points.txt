@@ -1,0 +1,3 @@
+[console_scripts]
+imprimeAlgo = paquete.moduloPaquete:main
+
